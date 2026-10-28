@@ -4,7 +4,7 @@
 ### Senior Software Engineer | Distributed Systems, EVM Protocol Security & Cloud Native
 
 [![Website](https://img.shields.io/badge/Portfolio-arifrahman.biz.id-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arifrahman.biz.id)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arif%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arif-rahman-rhm/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arif%20Rahman-0A66C2?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45djguMzdIOS4yNVYxMC45SDYuNDZNNy44NiA2LjVhMS42MyAxLjYzIDAgMCAwLTEuNjMgMS42M2MwIC45LjczIDEuNjMgMS42MyAxLjYzLjkgMCAxLjYzLS43MyAxLjYzLTEuNjMgMC0uOS0uNzMtMS42My0xLjYzLTEuNjNaIi8%2BPC9zdmc%2B)](https://www.linkedin.com/in/arif-rahman-rhm/)
 [![Email](https://img.shields.io/badge/Email-arif.rahman.rhm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arif.rahman.rhm@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%40arifrhm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arifrhm)
 
@@ -83,14 +83,14 @@
 #### Cloud, DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik02Ljg2IDExLjJhLjUuNSAwIDAgMC0uNDguMzZMNy4zIDE1LjQyYS41LjUgMCAwIDAgLjQ4LjY0aDEuMDJhLjUuNSAwIDAgMCAuNDktLjM2bC4yMi0uODRoMS40N2wuMjIuODRhLjUuNSAwIDAgMCAuNDkuMzZoMS4wMmEuNS41IDAgMCAwIC40OC0uNjRsLTEuMDgtMy44NmEuNS41IDAgMCAwLS40OC0uMzZINi44NnptLjg4IDIuNjguMzUtMS4zNC4zNSAxLjM0SDcuNzR6bTUuMS0yLjY4YS41LjUgMCAwIDAtLjQ4LjM1bC0uOTQgMy4yMy0uNzgtMi42N2EuNS41IDAgMCAwLS40OC0uMzZoLS44MWEuNS41IDAgMCAwLS40OC42NGwxLjM3IDQuN2EuNS41IDAgMCAwIC40OC4zNmguNzdhLjUuNSAwIDAgMCAuNDgtLjM2bC45LTMuMDcuOSAzLjA3YS41LjUgMCAwIDAgLjQ4LjM2aC43N2EuNS41IDAgMCAwIC40OC0uMzZsMS4zNy00LjdhLjUuNSAwIDAgMC0uNDgtLjY0aC0uODFhLjUuNSAwIDAgMC0uNDguMzZsLS43OCAyLjY3LS45NC0zLjIzYS41LjUgMCAwIDAtLjQ4LS4zNWgtLjQzem00LjYyIDEuMzVjMC0uODUuNjctMS4zNSAxLjc0LTEuMzUuNiAwIDEuMDguMTMgMS4zOS4yOWEuNS41IDAgMCAxIC4yOC40NXYuMzlhLjUuNSAwIDAgMS0uNjguNDYgMy4xIDMuMSAwIDAgMC0uOTYtLjE4Yy0uNTMgMC0uODIuMi0uODIuNDkgMCAuMzQuMjguNDcuODguNjQuOTcuMjggMS42My42MyAxLjYzIDEuNTUgMCAuOTEtLjcxIDEuNDgtMS44NCAxLjQ4LS42NiAwLTEuMjgtLjE2LTEuNjMtLjM4YS41LjUgMCAwIDEtLjI2LS40NHYtLjQ0YS41LjUgMCAwIDEgLjcxLS40NWMuMzQuMTguNzkuMyAxLjIxLjMuNTYgMCAuODgtLjIuODgtLjUzIDAtLjM2LS4zMS0uNS0uOTItLjY4LS45NC0uMjgtMS41Ny0uNjItMS41Ny0xLjUxdi0uMTJ6TTIxLjUgMTcuNWExMy41IDEzLjUgMCAwIDEtOC41IDIuOCAxMy41IDEzLjUgMCAwIDEtOC41LTIuOC41LjUgMCAwIDEgLjYzLS43NyAxMi41IDEyLjUgMCAwIDAgNy44NyAyLjU3IDEyLjUgMTIuNSAwIDAgMCA3Ljg3LTIuNTcuNS41IDAgMCAxIC42My43N3oiLz48L3N2Zz4%3D)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 #### Testing, QA & Reliability
 ![Vitest](https://img.shields.io/badge/Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-%232EAD33?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xNy41NSAxMi4zM2MtLjctLjQxLTEuNjMtLjQ0LTIuMzUtLjA4bC0uMjkuMTUtLjMxLS4xOWEyLjUzIDIuNTMgMCAwIDAtMi42MS0uMDZsLS4yOC4xNi0uMzEtLjE5YTIuNTMgMi41MyAwIDAgMC0yLjYxLS4wNmwtLjI4LjE2di0yLjFhMi41NSAyLjU1IDAgMCAwLTIuNTUtMi41NWgtLjFBMi41NSAyLjU1IDAgMCAwIDMuMzIgMTAuMXYzLjhjMCAzLjM1IDIuNzMgNi4wOCA2LjA4IDYuMDhoNS4yYTYuMDggNi4wOCAwIDAgMCA2LjA4LTYuMDh2LTEuMDdhLjUuNSAwIDAgMC0uNS0uNWgtMi4xM2EuNS41IDAgMCAxLS41LS41em0tMS44IDQuNjdhMS41IDEuNSAwIDEgMSAwLTMgMS41IDEuNSAwIDAgMSAwIDN6bS01LjQgMGExLjUgMS41IDAgMSAxIDAtMyAxLjUgMS41IDAgMCAxIDAgM3oiLz48L3N2Zz4%3D)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoColor=white)
 
 ---
@@ -99,11 +99,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arifrhm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arif's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifrhm&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=arifrhm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arif's GitHub Stats" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arifrhm&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="48%" />
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=arifrhm&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+<img src="https://streak-stats.demolab.com/?user=arifrhm&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 
 </div>
