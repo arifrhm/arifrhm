@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Arif Rahman 👋
-### Senior Software Engineer | Distributed Systems, Cloud Native & Open Source
+### Senior Software Engineer | Distributed Systems, EVM Protocol Security & Cloud Native
 
 [![Website](https://img.shields.io/badge/Portfolio-arifrahman.biz.id-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arifrahman.biz.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arif%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arif-rahman-rhm/)
@@ -14,14 +14,27 @@
 
 ### 🚀 About Me
 
-- 🔭 **Engineering Focus:** Architecting high-throughput distributed microservices, event-driven data pipelines, and resilient cloud-native infrastructure.
-- ⚡ **Performance & Scale:** Proven experience in optimizing batch ingestion engines (109x throughput speedup, 98% memory reduction), zero-drift schema contracts, and transactional outbox patterns.
-- 🛠️ **Primary Stack:** **Go (Golang)**, **TypeScript / Node.js**, **Python**, **Apache Pulsar / Kafka**, **PostgreSQL / MongoDB**, and **Docker / Kubernetes**.
-- 🌐 **Open Source Advocate:** Actively participating in open-source workflows, documentation clarity, and community toolkits.
+- 🔭 **Engineering Focus:** Architecting high-throughput distributed microservices, event-driven data pipelines, and EVM smart contract protocol security & verification.
+- ⚡ **Performance & Security:** Proven track record in optimizing batch ingestion engines (109x throughput speedup, 98% memory reduction), formal stateful invariant fuzzing (Foundry/Echidna), and zero-drift schema contracts.
+- 🛠️ **Primary Stack:** **Go (Golang)**, **Solidity / Foundry**, **TypeScript / Node.js**, **Python**, **Apache Pulsar / Kafka**, **PostgreSQL**, and **Docker / Kubernetes**.
+- 🌐 **Open Source Advocate:** Core contributor and security researcher actively hardening Web3 protocols and distributed developer toolchains.
 
 ---
 
-### 🌟 Open Source Highlights
+### 🛡️ Web3 & Protocol Security Contributions
+
+| Repository / Protocol | Contribution | Status | Focus / Description |
+| :--- | :--- | :---: | :--- |
+| [**`pancakeswap/infinity-core`**](https://github.com/pancakeswap/infinity-core) | [**PR #274**](https://github.com/pancakeswap/infinity-core/pull/274) | 🟡 **`OPEN`** | `fix(fuzz)`: Resolve inverted delta handling & transient storage collision (EIP-1153) in v4 InfinityPool fuzzer |
+| [**`Decipher-Hub/corner-store`**](https://github.com/Decipher-Hub/corner-store) | [**PR #160**](https://github.com/Decipher-Hub/corner-store/pull/160) | 🟡 **`OPEN`** | `test(invariants)`: Stateful invariant verification suite for RWA DEX (VenueRegistry, ExecutionEngine, Router) across 912 tests |
+| [**`mergit/mergit-contracts`**](https://github.com/mergit/mergit-contracts) | [**PR #2**](https://github.com/mergit/mergit-contracts/pull/2) | 🟡 **`OPEN`** | `test(fuzz)`: Comprehensive stateful invariant suite for Base L2 AI Agent Identity, Reputation & Services |
+| [**`Tarkka-Labs/victuro-contracts`**](https://github.com/Tarkka-Labs/victuro-contracts) | [**PR #33**](https://github.com/Tarkka-Labs/victuro-contracts/pull/33) | 🟡 **`OPEN`** | `test(invariants)`: 32,000+ stateful invariant fuzzing calls securing fee splits, deposit caps, and vault solvency |
+| [**`motech-audit/motech-solidity-security-lab`**](https://github.com/motech-audit/motech-solidity-security-lab) | [**PR #10**](https://github.com/motech-audit/motech-solidity-security-lab/pull/10) | 🟡 **`OPEN`** | `test(invariants)`: Comprehensive fuzzing suite for ERC-4626 inflation attacks, share price manipulation & flash loans |
+| [**`StabilityNexus/Gluon-EVM`**](https://github.com/StabilityNexus/Gluon-EVM) | [**PR #73**](https://github.com/StabilityNexus/Gluon-EVM/pull/73) | 🟡 **`OPEN`** | `feat`: On-chain canonical preview functions for dynamic decay, fee simulation & reserve validation |
+
+---
+
+### 🌟 Open Source Tooling & Systems Highlights
 
 | Repository | Contribution | Status | Focus / Description |
 | :--- | :--- | :---: | :--- |
@@ -36,6 +49,14 @@
 ---
 
 ### 💻 Tech Stack & Tooling
+
+#### Web3, Smart Contracts & Protocol Security
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-black?style=for-the-badge&logo=ethereum&logoColor=red)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Base](https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=OpenZeppelin&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535a0?style=for-the-badge&logo=ethereum&logoColor=white)
 
 #### Languages & Core Runtime
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
