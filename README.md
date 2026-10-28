@@ -25,6 +25,10 @@
 
 | Repository | Contribution | Status | Focus / Description |
 | :--- | :--- | :---: | :--- |
+| [**`soluterminal/soluterminal`**](https://github.com/soluterminal/soluterminal) | [**PR #15**](https://github.com/soluterminal/soluterminal/pull/15) | 🟣 **`MERGED`** | `feat(daemon)`: add version subcommand and flag dispatch |
+| [**`soluterminal/soluterminal`**](https://github.com/soluterminal/soluterminal) | [**PR #17**](https://github.com/soluterminal/soluterminal/pull/17) | 🟣 **`MERGED`** | `fix(daemon)`: report failed status and last error line in task run summary |
+| [**`soluterminal/soluterminal`**](https://github.com/soluterminal/soluterminal) | [**PR #19**](https://github.com/soluterminal/soluterminal/pull/19) | 🟡 **`OPEN`** | `fix(systemd)`: update install script and service unit path to daemon/solud |
+| [**`soluterminal/soluterminal`**](https://github.com/soluterminal/soluterminal) | [**PR #20**](https://github.com/soluterminal/soluterminal/pull/20) | 🟡 **`OPEN`** | `fix(web)`: fall back to neutral 'Agent' label for unrecognised CLI agents |
 | [**`firstcontributions/first-contributions`**](https://github.com/firstcontributions/first-contributions) | [**PR #127472**](https://github.com/firstcontributions/first-contributions/pull/127472) | 🟣 **`MERGED`** | First-time open-source contributor milestone & DCO compliance |
 | [**`arifrhm/barong-querykit`**](https://github.com/arifrhm/barong-querykit) | [**Core Engine**](https://github.com/arifrhm/barong-querykit) | 🟢 **`ACTIVE`** | Zero-drift shared event catalog, transactional outbox & query specs |
 
