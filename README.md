@@ -38,6 +38,7 @@
 
 | Repository | Contribution | Status | Focus / Description |
 | :--- | :--- | :---: | :--- |
+| [**`tektoncd/pipeline`**](https://github.com/tektoncd/pipeline) | [**PR #10952**](https://github.com/tektoncd/pipeline/pull/10952) | 🟡 **`OPEN`** | `fix(apis)`: standardize `PipelineTask` methods to pointer receivers (Go idioms) |
 | [**`soluterminal/soluterminal`**](https://github.com/soluterminal/soluterminal) | [**PR #15**](https://github.com/soluterminal/soluterminal/pull/15) | 🟣 **`MERGED`** | `feat(daemon)`: add version subcommand and flag dispatch |
 | [**`soluterminal/soluterminal`**](https://github.com/soluterminal/soluterminal) | [**PR #17**](https://github.com/soluterminal/soluterminal/pull/17) | 🟣 **`MERGED`** | `fix(daemon)`: report failed status and last error line in task run summary |
 | [**`soluterminal/soluterminal`**](https://github.com/soluterminal/soluterminal) | [**PR #19**](https://github.com/soluterminal/soluterminal/pull/19) | 🟡 **`OPEN`** | `fix(systemd)`: update install script and service unit path to daemon/solud |
