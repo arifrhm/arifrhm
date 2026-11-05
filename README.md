@@ -25,12 +25,15 @@
 
 | Repository / Protocol | Contribution | Status | Focus / Description |
 | :--- | :--- | :---: | :--- |
+| [**`ethereum/go-ethereum`**](https://github.com/ethereum/go-ethereum) | [**PR #36037**](https://github.com/ethereum/go-ethereum/pull/36037) | 🟡 **`OPEN`** | `eth/catalyst`: Permit payload import when parent state is local & disable snapsync at genesis (#28222) |
+| [**`paradigmxyz/reth`**](https://github.com/paradigmxyz/reth) | [**PR #28187**](https://github.com/paradigmxyz/reth/pull/28187) | 🟡 **`OPEN`** | `rpc`: Map transaction index on multi-tx EVM execution errors (#20301) |
+| [**`ethereum-optimism/optimism`**](https://github.com/ethereum-optimism/optimism) | [**PR #23752**](https://github.com/ethereum-optimism/optimism/pull/23752) | 🟡 **`OPEN`** | `op-node`: Emit structured event logs on SystemConfig update events |
 | [**`pancakeswap/infinity-core`**](https://github.com/pancakeswap/infinity-core) | [**PR #274**](https://github.com/pancakeswap/infinity-core/pull/274) | 🟡 **`OPEN`** | `fix(fuzz)`: Resolve inverted delta handling & transient storage collision (EIP-1153) in v4 InfinityPool fuzzer |
-| [**`Decipher-Hub/corner-store`**](https://github.com/Decipher-Hub/corner-store) | [**PR #160**](https://github.com/Decipher-Hub/corner-store/pull/160) | 🟡 **`OPEN`** | `test(invariants)`: Stateful invariant verification suite for RWA DEX (VenueRegistry, ExecutionEngine, Router) across 912 tests |
-| [**`mergit/mergit-contracts`**](https://github.com/mergit/mergit-contracts) | [**PR #2**](https://github.com/mergit/mergit-contracts/pull/2) | 🟡 **`OPEN`** | `test(fuzz)`: Comprehensive stateful invariant suite for Base L2 AI Agent Identity, Reputation & Services |
+| [**`StabilityNexus/Gluon-EVM`**](https://github.com/StabilityNexus/Gluon-EVM) | [**PR #73**](https://github.com/StabilityNexus/Gluon-EVM/pull/73) | 🟡 **`OPEN`** | `feat(quoter)`: On-chain canonical preview & quoter engine with time-decay dynamic fees and reserve safety guards |
+| [**`MotechAudit/motech-solidity-security-lab`**](https://github.com/MotechAudit/motech-solidity-security-lab) | [**PR #10**](https://github.com/MotechAudit/motech-solidity-security-lab/pull/10) | 🟣 **`MERGED`** | `test(vault)`: Multi-deposit and multi-user isolation fuzz tests for ERC-4626 vault inflation attacks |
+| [**`mergit-io/mergit-contracts`**](https://github.com/mergit-io/mergit-contracts) | [**PR #2**](https://github.com/mergit-io/mergit-contracts/pull/2) | 🟣 **`MERGED`** | `test(identity)`: Stateful test suite for ID progression, zero runtime keys, and URI resolution on Base L2 |
+| [**`decipherhub/corner-store`**](https://github.com/decipherhub/corner-store) | [**PR #160**](https://github.com/decipherhub/corner-store/pull/160) | 🟡 **`OPEN`** | `test(security)`: Invariant fuzz verification for non-custodial zero balance, nonce replay, and venue gates |
 | [**`Tarkka-Labs/victuro-contracts`**](https://github.com/Tarkka-Labs/victuro-contracts) | [**PR #33**](https://github.com/Tarkka-Labs/victuro-contracts/pull/33) | 🟡 **`OPEN`** | `test(invariants)`: 32,000+ stateful invariant fuzzing calls securing fee splits, deposit caps, and vault solvency |
-| [**`motech-audit/motech-solidity-security-lab`**](https://github.com/motech-audit/motech-solidity-security-lab) | [**PR #10**](https://github.com/motech-audit/motech-solidity-security-lab/pull/10) | 🟡 **`OPEN`** | `test(invariants)`: Comprehensive fuzzing suite for ERC-4626 inflation attacks, share price manipulation & flash loans |
-| [**`StabilityNexus/Gluon-EVM`**](https://github.com/StabilityNexus/Gluon-EVM) | [**PR #73**](https://github.com/StabilityNexus/Gluon-EVM/pull/73) | 🟡 **`OPEN`** | `feat`: On-chain canonical preview functions for dynamic decay, fee simulation & reserve validation |
 
 ---
 
@@ -38,12 +41,10 @@
 
 | Repository | Contribution | Status | Focus / Description |
 | :--- | :--- | :---: | :--- |
-| [**`tektoncd/pipeline`**](https://github.com/tektoncd/pipeline) | [**PR #10952**](https://github.com/tektoncd/pipeline/pull/10952) | 🟡 **`OPEN`** | `fix(apis)`: standardize `PipelineTask` methods to pointer receivers (Go idioms) |
-| [**`soluterminal/soluterminal`**](https://github.com/soluterminal/soluterminal) | [**PR #15**](https://github.com/soluterminal/soluterminal/pull/15) | 🟣 **`MERGED`** | `feat(daemon)`: add version subcommand and flag dispatch |
-| [**`soluterminal/soluterminal`**](https://github.com/soluterminal/soluterminal) | [**PR #17**](https://github.com/soluterminal/soluterminal/pull/17) | 🟣 **`MERGED`** | `fix(daemon)`: report failed status and last error line in task run summary |
-| [**`soluterminal/soluterminal`**](https://github.com/soluterminal/soluterminal) | [**PR #19**](https://github.com/soluterminal/soluterminal/pull/19) | 🟡 **`OPEN`** | `fix(systemd)`: update install script and service unit path to daemon/solud |
-| [**`soluterminal/soluterminal`**](https://github.com/soluterminal/soluterminal) | [**PR #20**](https://github.com/soluterminal/soluterminal/pull/20) | 🟡 **`OPEN`** | `fix(web)`: fall back to neutral 'Agent' label for unrecognised CLI agents |
-| [**`soluterminal/soluterminal`**](https://github.com/soluterminal/soluterminal) | [**PR #21**](https://github.com/soluterminal/soluterminal/pull/21) | 🟡 **`OPEN`** | `feat(web)`: support dropping arbitrary non-image files on panes |
+| [**`tektoncd/pipeline`**](https://github.com/tektoncd/pipeline) | [**PR #10952**](https://github.com/tektoncd/pipeline/pull/10952) | 🟡 **`OPEN`** | `fix(apis)`: Standardize `PipelineTask` methods to pointer receivers (Go idioms) |
+| [**`voyager-browser/voyager`**](https://github.com/voyager-browser/voyager) | [**PR #98**](https://github.com/voyager-browser/voyager/pull/98) | 🟣 **`MERGED`** | `feat(omnibox)`: Auto-select address bar on new tab creation |
+| [**`open-telemetry/opentelemetry-go-compile-instrumentation`**](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation) | [**PR #1628**](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation/pull/1628) | 🟢 **`REVIEWED`** | `fix(instrumentation)`: Redact Redis command arguments to prevent error leakage & nil-pointer check |
+| [**`soluterminal/soluterminal`**](https://github.com/soluterminal/soluterminal) | [**PR #15**](https://github.com/soluterminal/soluterminal/pull/15), [**PR #17**](https://github.com/soluterminal/soluterminal/pull/17) | 🟣 **`MERGED`** | `feat(daemon)`: Version subcommand flag dispatch & task run error diagnostic reporting |
 | [**`firstcontributions/first-contributions`**](https://github.com/firstcontributions/first-contributions) | [**PR #127472**](https://github.com/firstcontributions/first-contributions/pull/127472) | 🟣 **`MERGED`** | First-time open-source contributor milestone & DCO compliance |
 | [**`arifrhm/barong-querykit`**](https://github.com/arifrhm/barong-querykit) | [**Core Engine**](https://github.com/arifrhm/barong-querykit) | 🟢 **`ACTIVE`** | Zero-drift shared event catalog, transactional outbox & query specs |
 
@@ -61,6 +62,7 @@
 
 #### Languages & Core Runtime
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
