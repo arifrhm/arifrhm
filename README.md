@@ -21,32 +21,27 @@
 
 ---
 
-### 🛡️ Web3 & Protocol Security Contributions
+### 🛡️ Web3 & Protocol Security Contributions (Merged)
 
 | Repository / Protocol | Contribution | Status | Focus / Description |
 | :--- | :--- | :---: | :--- |
-| [**`ethereum/go-ethereum`**](https://github.com/ethereum/go-ethereum) | [**PR #36037**](https://github.com/ethereum/go-ethereum/pull/36037) | 🟡 **`OPEN`** | `eth/catalyst`: Permit payload import when parent state is local & disable snapsync at genesis (#28222) |
-| [**`paradigmxyz/reth`**](https://github.com/paradigmxyz/reth) | [**PR #28187**](https://github.com/paradigmxyz/reth/pull/28187) | 🟡 **`OPEN`** | `rpc`: Map transaction index on multi-tx EVM execution errors (#20301) |
-| [**`ethereum-optimism/optimism`**](https://github.com/ethereum-optimism/optimism) | [**PR #23752**](https://github.com/ethereum-optimism/optimism/pull/23752) | 🟡 **`OPEN`** | `op-node`: Emit structured event logs on SystemConfig update events |
-| [**`pancakeswap/infinity-core`**](https://github.com/pancakeswap/infinity-core) | [**PR #274**](https://github.com/pancakeswap/infinity-core/pull/274) | 🟡 **`OPEN`** | `fix(fuzz)`: Resolve inverted delta handling & transient storage collision (EIP-1153) in v4 InfinityPool fuzzer |
-| [**`StabilityNexus/Gluon-EVM`**](https://github.com/StabilityNexus/Gluon-EVM) | [**PR #73**](https://github.com/StabilityNexus/Gluon-EVM/pull/73) | 🟡 **`OPEN`** | `feat(quoter)`: On-chain canonical preview & quoter engine with time-decay dynamic fees and reserve safety guards |
 | [**`MotechAudit/motech-solidity-security-lab`**](https://github.com/MotechAudit/motech-solidity-security-lab) | [**PR #10**](https://github.com/MotechAudit/motech-solidity-security-lab/pull/10) | 🟣 **`MERGED`** | `test(vault)`: Multi-deposit and multi-user isolation fuzz tests for ERC-4626 vault inflation attacks |
 | [**`mergit-io/mergit-contracts`**](https://github.com/mergit-io/mergit-contracts) | [**PR #2**](https://github.com/mergit-io/mergit-contracts/pull/2) | 🟣 **`MERGED`** | `test(identity)`: Stateful test suite for ID progression, zero runtime keys, and URI resolution on Base L2 |
-| [**`decipherhub/corner-store`**](https://github.com/decipherhub/corner-store) | [**PR #160**](https://github.com/decipherhub/corner-store/pull/160) | 🟡 **`OPEN`** | `test(security)`: Invariant fuzz verification for non-custodial zero balance, nonce replay, and venue gates |
-| [**`Tarkka-Labs/victuro-contracts`**](https://github.com/Tarkka-Labs/victuro-contracts) | [**PR #33**](https://github.com/Tarkka-Labs/victuro-contracts/pull/33) | 🟡 **`OPEN`** | `test(invariants)`: 32,000+ stateful invariant fuzzing calls securing fee splits, deposit caps, and vault solvency |
 
 ---
 
-### 🌟 Open Source Tooling & Systems Highlights
+### 🌟 Open Source Tooling & Systems Highlights (Merged)
 
 | Repository | Contribution | Status | Focus / Description |
 | :--- | :--- | :---: | :--- |
-| [**`tektoncd/pipeline`**](https://github.com/tektoncd/pipeline) | [**PR #10952**](https://github.com/tektoncd/pipeline/pull/10952) | 🟡 **`OPEN`** | `fix(apis)`: Standardize `PipelineTask` methods to pointer receivers (Go idioms) |
+| [**`apache/airflow`**](https://github.com/apache/airflow) | [**PR #77046**](https://github.com/apache/airflow/pull/77046) | 🟣 **`MERGED`** | `fix(trigger)`: Unify `queue` parameter on `MessageQueueTrigger` with trigger queues |
+| [**`bytedance/deer-flow`**](https://github.com/bytedance/deer-flow) | [**PR #8232**](https://github.com/bytedance/deer-flow/pull/8232) | 🟣 **`MERGED`** | `fix(gateway)`: Reject artifact archives where a file collides with an implicit directory (#7977) |
+| [**`pg-sharding/spqr`**](https://github.com/pg-sharding/spqr) | [**PR #3127**](https://github.com/pg-sharding/spqr/pull/3127) | 🟣 **`MERGED`** | `test(router)`: Add config reload test for `show_notice_messages` |
+| [**`doobidoo/mcp-memory-service`**](https://github.com/doobidoo/mcp-memory-service) | [**PR #1864**](https://github.com/doobidoo/mcp-memory-service/pull/1864) | 🟣 **`MERGED`** | `fix(daemon)`: Rebuild restart command from `sys.orig_argv` (#1861) |
 | [**`voyager-browser/voyager`**](https://github.com/voyager-browser/voyager) | [**PR #98**](https://github.com/voyager-browser/voyager/pull/98) | 🟣 **`MERGED`** | `feat(omnibox)`: Auto-select address bar on new tab creation |
-| [**`open-telemetry/opentelemetry-go-compile-instrumentation`**](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation) | [**PR #1628**](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation/pull/1628) | 🟢 **`REVIEWED`** | `fix(instrumentation)`: Redact Redis command arguments to prevent error leakage & nil-pointer check |
-| [**`soluterminal/soluterminal`**](https://github.com/soluterminal/soluterminal) | [**PR #15**](https://github.com/soluterminal/soluterminal/pull/15), [**PR #17**](https://github.com/soluterminal/soluterminal/pull/17) | 🟣 **`MERGED`** | `feat(daemon)`: Version subcommand flag dispatch & task run error diagnostic reporting |
+| [**`anefzaoui/misterdownloadmanager`**](https://github.com/anefzaoui/misterdownloadmanager) | [**PR #1321**](https://github.com/anefzaoui/misterdownloadmanager/pull/1321) | 🟣 **`MERGED`** | `fix(extension,app)`: Sniff and download Google Drive videos in shared folders (#758) |
+| [**`solongate/agent-security`**](https://github.com/solongate/agent-security) | [**PR #373**](https://github.com/solongate/agent-security/pull/373) | 🟣 **`MERGED`** | `scripts`: Add packages/crypto to sg-unit-check module loop |
 | [**`firstcontributions/first-contributions`**](https://github.com/firstcontributions/first-contributions) | [**PR #127472**](https://github.com/firstcontributions/first-contributions/pull/127472) | 🟣 **`MERGED`** | First-time open-source contributor milestone & DCO compliance |
-| [**`arifrhm/barong-querykit`**](https://github.com/arifrhm/barong-querykit) | [**Core Engine**](https://github.com/arifrhm/barong-querykit) | 🟢 **`ACTIVE`** | Zero-drift shared event catalog, transactional outbox & query specs |
 
 ---
 
